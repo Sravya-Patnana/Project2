@@ -35,6 +35,7 @@ public class LoginPage {
 		Pword.sendKeys(password);
 		
 		Log.click();
+			System.out.println("success");
 		}
 
 }
